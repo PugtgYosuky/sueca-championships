@@ -1,4 +1,4 @@
-# 🃏 Naipes League — Sueca Championship App / App para Campeonato de Sueca
+# 🃏 Sueca Championship App / App para Campeonato de Sueca
 
 **Author:** Joana Simões  
 **In:** Streamlit (Python)
